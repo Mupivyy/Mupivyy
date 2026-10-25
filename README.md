@@ -48,7 +48,7 @@ Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull
 
 </div>
 <p align="center">
- <img src="./Dyle.flower/first" width="250">
+ <img src="./images/Dyle.flower" width="250">
 
 
 ## 🕰️ 01 / ABOUT ME
