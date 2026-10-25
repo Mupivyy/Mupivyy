@@ -13,7 +13,7 @@
  ⛓─────────────────⫘⫘⫘🕰⫘⫘⫘─────────────────
                                                 ⛓
 
-            <p align="center">
+  <p align="center">
   <img src="Clock.gif.gif" width="300" alt="Animated clock">
 </p>
 
