@@ -1,8 +1,5 @@
 <div align="center">
 
- <p align="center">
-  <img src="./Clock.gif/first" width="250">
-  
 
  # ⌛꒰ INFO meeowyy ༺☆༻
 𓏲ּ𝄢🧾˖ . ݁₊ ⊹ welcome, curious visitor.
@@ -16,8 +13,9 @@
  ⛓─────────────────⫘⫘⫘🕰⫘⫘⫘─────────────────
                                                 ⛓
 
-
-            
+            <p align="center">
+  <img src="Clock.gif.gif" width="300" alt="Animated clock">
+</p>
 
 *⌕ Take a look around. You might find something interesting.⌕ *
 
@@ -48,7 +46,7 @@ Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull
 
 </div>
 <p align="center">
- <img src="./images/Dyle.flower" width="250">
+ <img src="./Dyle.flower.jpg" width="600">
 
 
 ## 🕰️ 01 / ABOUT ME
