@@ -1,6 +1,10 @@
 <div align="center">
 
-# ⌛꒰ INFO meeowyy ༺☆༻
+ <p align="center">
+  <img src="./Clock.gif/first" width="250">
+  
+
+ # ⌛꒰ INFO meeowyy ༺☆༻
 𓏲ּ𝄢🧾˖ . ݁₊ ⊹ welcome, curious visitor.
 
 *「  -ᴗ̈ 𝑠ℎ𝑒 / ℎ𝑒𝑟 ! 📜  」*
@@ -43,8 +47,9 @@ Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull
 </details>
 
 </div>
+<p align="center">
+ <img src="./Dyle.flower/first" width="250">
 
----
 
 ## 🕰️ 01 / ABOUT ME
 
