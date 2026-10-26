@@ -5,13 +5,9 @@
 
 
  # ⌛꒰ INFO meeowyy ༺☆༻
-𓏲ּ𝄢🧾˖ . ݁₊ ⊹ Привет привет привет! прпр! Я Мупиву / Мап / Спутник
-
-*「  -ᴗ̈ 𝑠ℎ𝑒 / ℎ𝑒𝑟 ! 📜  」*
- 
-    🎞 Я не ищу друзей, но полностью открыта к новым знакомствам и разговорам! 🎞
-    
-  𝘸2𝘪 ! 𝘤+𝘩 → ⚰৲
+<p align="center">
+  <img src="mupivyy-social-info.svg" width="100%" alt="Social info">
+</p>
  
  ⛓───────────⫘⫘⫘🕰⫘⫘⫘───────────
                                                ⛓
@@ -22,7 +18,9 @@
 
 *⌕ Take a look around. You might find something interesting.⌕ *
 
-📜 ──── TABLE OF CONTENTS ──── 📜
+<p align="center">
+  <img src="table-of-contents-gold.svg" width="100%" alt="Table of Contents">
+</p>
 
     ⎝ 𓆩༺✧༻𓆪 ⎠
 <details>
@@ -58,22 +56,9 @@ Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull
 
  > RECORD No. 001 — SUBJECT: MUPIVYY
 
-<div align="center">
-  <img src="Dyle.cry.png" width="25%" align="left">
-
-  <img src="Dyle.mad.png" width="25%" align="right">
-
- <div align="center">
-  <span style="color: #D4AF37;">
-    <b>Привет привет привет! прпр! Я Мупиву / Мап / Спутник</b>
-    <br><br>
-   ⸝⸝⠀｡ׂ ⠀ ⿻⠀⊹  ִ  ֺ   - ⋆───𝘣𝘥𝘢𝘺 22/03/2012🎹
-    <br><br>
-     ֪   ֹ   ៹  ⠀۟SX9w1 (972) -sx9-sx7-sx2
-    <br><br>
-   ៹  - ⋆｡°✩ ───EFLV | ENTP
-  </span>
-</div>
+<p align="center">
+  <img src="mupivyy-about-me.svg" width="100%" alt="About me">
+</p>
 
 <!-- YOUR DYLE IMAGE WILL GO HERE LATER -->
 
