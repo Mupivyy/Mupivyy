@@ -63,13 +63,16 @@ Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull
 
   <img src="Dyle.mad.png" width="25%" align="right">
 
- <br><br>
-  ⸝⸝⠀｡ׂ ⠀ ⿻⠀⊹  ִ  ֺ   - ⋆───𝘣𝘥𝘢𝘺 22/03/2012🎹
-<br><br>
- ֪   ֹ   ៹  ⠀۟SX9w1 (972) -sx9-sx7-sx2
-<br><br>
-៹  - ⋆｡°✩ ───EFLV | ENTP
-<br><br>
+ <div align="center">
+  <span style="color: #D4AF37;">
+    <b>Привет привет привет! прпр! Я Мупиву / Мап / Спутник</b>
+    <br><br>
+   ⸝⸝⠀｡ׂ ⠀ ⿻⠀⊹  ִ  ֺ   - ⋆───𝘣𝘥𝘢𝘺 22/03/2012🎹
+    <br><br>
+     ֪   ֹ   ៹  ⠀۟SX9w1 (972) -sx9-sx7-sx2
+    <br><br>
+   ៹  - ⋆｡°✩ ───EFLV | ENTP
+  </span>
 </div>
 
 <!-- YOUR DYLE IMAGE WILL GO HERE LATER -->
