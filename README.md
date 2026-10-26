@@ -1,8 +1,11 @@
+<p align="center">
+ <img src="./Fy.Dyle.png" width="600">
+
 <div align="center">
 
 
  # ⌛꒰ INFO meeowyy ༺☆༻
-𓏲ּ𝄢🧾˖ . ݁₊ ⊹ welcome, curious visitor.
+𓏲ּ𝄢🧾˖ . ݁₊ ⊹ Привет привет привет! прпр! Я Мупиву / Мап / Спутник
 
 *「  -ᴗ̈ 𝑠ℎ𝑒 / ℎ𝑒𝑟 ! 📜  」*
  
@@ -33,7 +36,7 @@ Dyle/Дайл (Dandy's World) , Medkit/Медкит (PHIGHTING!) , Byron/Бай�
 Lemon Demon, Монеточка, Michael Jackson, Нежное это, Lady Gaga, Овсянкин, СМН, Слава КПСС, Молодёжьвыбираеткосмос, Ghost Band, Вертушка Газманова, mzlff, Дмитрий уткин, And One, GSPD, Пряник 
 </details>  ⏝ ͝ · 
 <details>
-<summary>FANDOMS</summary>
+<summary>FANDOMS</summary>  
 
 Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull Girls, Metal Gear Solid, TF2, Genshin Impact, Rainbow Six Siege, Slime Rancher, Call of Duty, Spooky Month, Piggy, Guts and Blackpowder, Yo-kai Watch, Slendytubbies, Nullscape, Kaiju Paradise, Outlaws of Robloxia
 
@@ -48,28 +51,32 @@ Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull
 <p align="center">
  <img src="./Dyle.flower.jpg" width="600">
 
+<div align="center">
 
-## 🕰️ 01 / ABOUT ME
+ 
+ # 🕰️ 01 / ABOUT ME
 
-> RECORD No. 001 — SUBJECT: MUPIVYY
+ > RECORD No. 001 — SUBJECT: MUPIVYY
 
-  <font color="#C9A45C">Привет привет привет! прпр! Я Мупиву / Мап / Спутник</font>
-     
-⸝⸝⠀｡ׂ ⠀ ⿻⠀⊹  ִ  ֺ   - ⋆───𝘣𝘥𝘢𝘺 22/03/2012🎹
+<div align="center">
+  <img src="Dyle.cry.png" width="25%" align="left">
 
+  <img src="Dyle.mad.png" width="25%" align="right">
 
- ֪   ֹ   ៹  ⠀۟ SX9w1 (972) -sx9-sx7-sx2 ֪   ៹   
-  
-  
-   - ⋆｡°✩ ───EFLV | ENTP
-
-  
+ <br><br>
+  ⸝⸝⠀｡ׂ ⠀ ⿻⠀⊹  ִ  ֺ   - ⋆───𝘣𝘥𝘢𝘺 22/03/2012🎹
+<br><br>
+ ֪   ֹ   ៹  ⠀۟SX9w1 (972) -sx9-sx7-sx2
+<br><br>
+៹  - ⋆｡°✩ ───EFLV | ENTP
+<br><br>
+</div>
 
 <!-- YOUR DYLE IMAGE WILL GO HERE LATER -->
 
 
 
-  <font color="#C9A45C">Мои маленькие кисоньки ирись плутося и ураня прь зайки🥺❤</font> 
+ Мои маленькие кисоньки ирись плутося и ураня прь зайки🥺❤
 
 ---
 
