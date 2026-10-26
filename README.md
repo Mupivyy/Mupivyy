@@ -37,7 +37,7 @@ Lemon Demon, Монеточка, Michael Jackson, Нежное это, Lady Gaga
 <details>
 <summary>FANDOMS</summary>  
 
-Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull Girls, Metal Gear Solid, TF2, Genshin Impact, Rainbow Six Siege, Slime Rancher, Call of Duty, Spooky Month, Piggy, Guts and Blackpowder, Yo-kai Watch, Slendytubbies, Nullscape, Kaiju Paradise, Outlaws of Robloxia
+Regretevator, Creature of Sonaria, PHIGHTING!, Dandy's World, Brawl Stars, Skull Girls, Metal Gear Solid, TF2, Genshin Impact, Rainbow Six Siege, Slime Rancher, Call of Duty, Spooky Month, Piggy, Guts and Blackpowder, Yo-kai Watch, Slendytubbies, Nullscape, Kaiju Paradise, Outlaws of Robloxia, ^_^
 
 </details>  ⏝ ͝ · <details>
 <summary>DNI</summary>
