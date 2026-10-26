@@ -22,7 +22,8 @@
   <img src="table-of-contents-gold.svg" width="100%" alt="Table of Contents">
 </p>
 
-     ⎝ 𓆩༺✧༻𓆪 ⎠
+  <p align="center">
+   ⎝ 𓆩༺✧༻𓆪 ⎠
 <details>
 <summary>FAV CHARACTERS</summary>
 
